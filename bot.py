@@ -7,8 +7,8 @@ import pytz
 
 # — НАСТРОЙКИ —
 
-BOT_TOKEN = “ВАШ_ТОКЕН_ЗДЕСЬ”
-YOUR_ID = 000000000  # Ваш Telegram ID
+BOT_TOKEN = "8631951692:AAHGFkXrNVkrDB5z_C_5SLH1Vg5NuNm1asQ"
+YOUR_ID = 682778809
 MOSCOW = pytz.timezone(“Europe/Moscow”)
 
 logging.basicConfig(level=logging.INFO)
